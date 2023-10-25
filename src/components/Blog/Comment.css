@@ -1,0 +1,12 @@
+.comment-container {
+    width: 100% !important;
+    padding: 10px;
+    border-radius: 5px !important;
+    background-color: lightgray;
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: flex-start;
+    position: relative;
+}

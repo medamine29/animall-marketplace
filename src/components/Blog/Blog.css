@@ -1,0 +1,56 @@
+.main-screen {
+    text-align: left;
+    justify-content: left;
+    margin: auto;
+    min-height: 500px !important;
+}
+
+.topic-container {
+    background-color: lightgray;
+    padding: 20px;
+    width: 90%;
+    margin: 10px;
+    outline: auto;
+    outline-style: round;
+    border-radius: 10px;
+}
+
+.btn-create {
+    margin-top: 20px;
+    background-color: white !important;
+    margin-left: 10px;
+    padding: 8px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.btn-back {
+    background-color: transparent !important;
+    color: black !important;
+    border-color: transparent !important;
+}
+
+.add-topic-form {
+    margin-top: 30px;
+}
+
+.input-comment {
+    width: 100%;
+    height: 40px !important;
+    border-radius: 15px;
+    border-color: black;
+    border-width: 5px;
+    margin-top: 5px;
+}
+
+.btn-add-topic {
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    padding: 5px;
+    color: black;
+    border: 0.25px solid black;
+}

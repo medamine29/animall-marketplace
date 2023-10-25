@@ -1,0 +1,13 @@
+.btn-create {
+    background-color: #c49102 !important;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.main-screen {
+    text-align: left;
+    justify-content: left;
+    margin: auto;
+    min-height: 500px !important;
+    width: 98%;
+}

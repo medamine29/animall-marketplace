@@ -1,0 +1,32 @@
+.cart-item-container {
+    justify-content: center !important;
+    align-items: center !important;
+    margin: auto !important;
+    width: 800px !important;
+}
+
+.cart-item {
+    position: relative;
+    padding: 10px;
+    margin: 3px;
+    text-align: left !important;
+}
+
+.btn-remove {
+    border-radius: 50% !important;
+    color: white;
+    background-color: #971919;
+    width: 30px;
+    height: 30px;
+    border-color: #971919;
+}
+
+.red-text {
+    color: #971919;
+}
+
+.close-button {
+    right: 4px;
+    top: 2px;
+    position: absolute;
+}

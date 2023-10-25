@@ -1,0 +1,36 @@
+.m20 {
+    margin-bottom: 20px;
+    border: 0.5px solid gray;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2) !important;
+}
+
+.red {
+    color: #842e0c;
+}
+
+.btn-add {
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    padding: 5px;
+    color: black;
+    border: 0.25px solid black;
+}
+
+.yellow:hover {
+    background-color: #e4f6f8 !important;
+}
+
+.title-price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title {
+    width: 150px;
+    overflow: "hidden"; 
+    text-overflow: "ellipsis";
+    white-space: "nowrap"
+}

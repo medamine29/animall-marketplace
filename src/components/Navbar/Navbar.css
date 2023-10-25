@@ -1,0 +1,109 @@
+nav {
+    height: 10px;
+    background-color: #ae8820;
+}
+
+.liste {
+    list-style-type: none;
+    background: white;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-top: 10px
+}
+
+.liste-admin {
+    list-style-type: none;
+    background: green;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.items {
+    margin-right: 60px;
+    color: black;
+    cursor: pointer;
+}
+
+.btnLog {
+    margin-left: 110px;
+    color: black;
+    background-color: transparent;
+    cursor: pointer;
+    border-color: transparent;
+}
+
+.logo {
+    margin-right: 110px;
+    color: white;
+    cursor: pointer;
+}
+
+.iconNav {
+    size: 20px;
+    color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.promoHeader {
+    min-height: 60px;
+    overflow: hidden;
+    background-color: #971919;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnQuitPromo {
+    background-color: transparent;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.promoText {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    display: none;
+}
+
+.w90 {
+    width: 90%;
+    margin: auto;
+}
+
+.navBg {
+    background-color: white;
+}
+
+.linkNavBar {
+    text-decoration: none;
+    color: black;
+}
+
+.subCategories {
+    width: 100%;
+    align-items: center;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    justify-content: center;
+    background-color: #e4f6f8;
+}
+
+.colorWhite {
+    color: white !important;
+}
